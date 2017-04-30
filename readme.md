@@ -7,6 +7,9 @@ API para inserção e consulta de dados
 - inserção de venedores
 - consulta de vendedores com suas respectivas vendas
 
+# database
+- file sql in directory /database/structure_database_api.sql
+
 # rotas para uso
 Inserir vendedor: api/seller/create | POST | exemplo json para enviar {"name" : "Pedro", "email" : "pedro@email.com"}
 
